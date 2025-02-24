@@ -1,2 +1,2 @@
 # Hospital-Information-System
-This is my college project
+This project is a hospital information system developed by a team of three as a college project. It utilizes PHP to perform a simplified ETL process, managing patient data from enrollment through the healthcare journey. The system encompasses patient registration, doctor anamnesis and prescription, patient access to medical history and prescriptions, and apothecary management for prescription fulfillment and cost calculation.
